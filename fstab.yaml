@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://author-p133911-e1313554.adobeaemcloud.com/bin/franklin.delivery/jalagari/demo/main
+    url: https://drive.google.com/drive/folders/1TZO5VB5DIn3nL0eg7iF7HxHnhPjYeh9Q
     type: "markup"
     suffix: ".html"
